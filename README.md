@@ -4,6 +4,8 @@ Este repositorio contiene un documento con el **análisis de los criterios de se
 
 ---
 
+
+Integranes: Luis Peraza, Juan Diego Mendoza, Michael Beatancourd, Manuela Pardo, Ana Sofia Rodriguez
 ## 📌 Contenido
 - `analisis_flornet.pdf` → Documento principal que desarrolla:
   - Los criterios de selección de un ERP.  

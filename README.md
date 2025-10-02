@@ -26,6 +26,37 @@ Criterios funcionales
 Criterios económicos
 - Implementación de menos de 40.000 dólares.
 - Más económico que Netsuite y Dynamics .
+Criterios Organizativos:
+- Adecuación al giro del negocio:
+El ERP debe adaptarse a las particularidades de una floristería, como la gestión de productos perecederos, fechas clave (San Valentín, Día de la Madre), ventas por catálogo y entregas personalizadas. Flornet destaca aquí por ser especializado en este sector.
+
+- Tamaño y complejidad operativa:
+El sistema debe ser adecuado para el tamaño de la floristería (pequeña, mediana o con varias sucursales). Debe permitir crecer con el negocio sin necesidad de un cambio futuro costoso.
+
+- Capacidades del personal:
+La interfaz debe ser fácil de usar para empleados con conocimientos técnicos limitados. Se valora una curva de aprendizaje corta y soporte en español.
+
+- Presupuesto y retorno de inversión (ROI):
+Debe evaluarse el costo total del sistema (licencia, mantenimiento, capacitación) frente a los beneficios esperados: mayor eficiencia, reducción de errores, mejora en atención al cliente, etc.
+
+- Evaluación de proveedores
+La elección del proveedor es tan importante como la del sistema. Aquí se consideran criterios como:
+
+- Experiencia en el sector:
+Se valora que el proveedor tenga experiencia trabajando con floristerías. Esto asegura que comprenda los procesos clave del negocio.
+
+- Reputación y referencias:
+Es recomendable solicitar casos de éxito, opiniones de otros usuarios y contactar a clientes actuales del proveedor para conocer su nivel de satisfacción.
+
+- Soporte técnico y capacitación:
+Un buen proveedor debe ofrecer soporte en horarios adecuados, materiales de formación, actualizaciones constantes y acompañamiento postventa.
+
+- Flexibilidad y personalización:
+El proveedor debe permitir adaptar ciertos módulos o flujos del sistema a necesidades particulares, sin costos desproporcionados.
+
+- Tiempo de implementación:
+Para no afectar la operación diaria, se valora una implementación rápida, especialmente en negocios donde no se puede detener la atención al cliente.
+
 
 Proceso de selección:
 1. Preparación Interna

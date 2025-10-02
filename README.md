@@ -17,6 +17,6 @@ Integranes: Luis Peraza, Juan Diego Mendoza, Michael Beatancourd, Manuela Pardo,
 ## 🚀 Uso
 Clonar el repositorio y abrir el documento:
 
-```bash
+```bash...
 git clone https://github.com/usuario/analisis-erp-flornet.git
 cd analisis-erp-flornet

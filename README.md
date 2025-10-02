@@ -1,11 +1,17 @@
 # 📊 Análisis del ERP Flornet
 
+# Integrantes
+
+- Michael Betancourt
+- Luis Peraza
+- Manuela Pardo
+- Juan Diego Mendoza
+- Ana Sofía Rodriguez
+
 Este repositorio contiene un documento con el **análisis de los criterios de selección** aplicados al ERP **Flornet**.  
 
 ---
 
-
-Integranes: Luis Gabriel Peraza, Juan Diego Mendoza, Michael Beatancourd, Manuela Pardo, Ana Sofia Rodriguez
 ## 📌 Contenido
 - `analisis_flornet.pdf` → Documento principal que desarrolla:
   - Los criterios de selección de un ERP.  
